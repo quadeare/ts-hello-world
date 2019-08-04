@@ -11,4 +11,4 @@ steps:
   image: node:8
   commands:
     - npm i
-    - npm tsc
+    - npm run tsc
